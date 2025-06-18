@@ -124,4 +124,4 @@ print("\n=== (5) [70,10]の予測値と区間推定 ===")
 print(f"予測値: {y0_hat:.4f}")
 print(f"95% 信頼区間: {confidence_interval}")
 print(f"95% 予測区間: {prediction_interval}")
-
+# 部屋数（room_number）を説明変数に追加しました（Issue #1）
